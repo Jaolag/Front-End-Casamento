@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.row2{
+    font-style: verdana;
+    background-color: gray;
+    color: white;
+  
+}
+h1{
+    margin-top: auto;
+}
+.container{
+    margin-top: 0px;
+}
+header, .main{
+    padding: 10px;
+    background-color: white;
+}
+.row3{
+    margin-top: 20px;
+    display: inline-flex;
+
+}
+footer{
+    padding-left:10px;
+    font-style: verdana;
+    background-color: gray;
+    color: white;
+    margin-top: 10px;
+}
+.card-text{
+    margin-bottom: 10px dotted gray;
+}
+.Topo{
+    color: white;
+    text-decoration: underline;
+}
+.butao{
+    color: white;
+    background-color: gray;
+    border: 10px solid gray;
+    border-radius: 5px;
+}
+.card{
+    margin-left: 15px;
+}
